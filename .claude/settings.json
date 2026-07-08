@@ -1,0 +1,9 @@
+{
+  "enabledPlugins": {
+    "adrs-management@fullcycle-claude-marketplace": true,
+    "diagrams-generator@fullcycle-claude-marketplace": true,
+    "project-analizer@fullcycle-claude-marketplace": true,
+    "development-guidelines@fullcycle-claude-marketplace": true,
+    "commit-commands@claude-plugins-official": true
+  }
+}
